@@ -28,7 +28,7 @@ module.exports = {
         name: `Orhan Sönmez - Freelance Developer`,
         short_name: `Orhan Sönmez`,
         description: `Personal website of Orhan Sönmez`,
-        start_url: `/sonmez.xyz`,
+        start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
