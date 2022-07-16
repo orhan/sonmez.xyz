@@ -5,7 +5,7 @@
   "version": "0.1",
   "author": "Orhan Sönmez <orhan@sonmez.xyz>",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-orhan",
+  "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
