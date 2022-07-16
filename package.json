@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
-  "version": "0.2.11",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "name": "sonmez.xyz",
+  "description": "Personal website of Orhan Sönmez",
+  "version": "0.1",
+  "author": "Orhan Sönmez <orhan@sonmez.xyz>",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "gatsby-starter-portfolio-orhan",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -16,15 +16,25 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-cara": "^3.0.0",
-    "gatsby": "^4.18.2",
-    "gatsby-plugin-gatsby-cloud": "^4.18.1",
-    "gatsby-plugin-manifest": "^4.18.1",
-    "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.27",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "@emotion/react": "^11.9.3",
+    "@lekoarts/gatsby-theme-cara": "https://gitpkg.now.sh/orhan/gatsby-themes/themes/gatsby-theme-cara?2c3a288aff1a01f59dde443dbbb8401ad807cd0e",
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@mdx-js/tag": "^0.20.3",
+    "@theme-ui/css": "^0.14.6",
+    "gatsby": "4.18.2",
+    "gatsby-mdx": "^1.0.0",
+    "gatsby-plugin-gatsby-cloud": "4.18.1",
+    "gatsby-plugin-manifest": "4.18.1",
+    "gatsby-plugin-mdx": "^3.18.1",
+    "gatsby-plugin-react-helmet": "^5.18.0",
+    "gatsby-plugin-theme-ui": "^0.14.6",
+    "gatsby-plugin-webpack-bundle-analyser-v2": "1.1.27",
+    "gatsby-source-filesystem": "^4.18.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+    "cross-env": "7.0.3"
   }
 }
