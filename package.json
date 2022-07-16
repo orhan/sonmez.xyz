@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@emotion/react": "^11.9.3",
-    "@lekoarts/gatsby-theme-cara": "https://gitpkg.now.sh/orhan/gatsby-themes/themes/gatsby-theme-cara?2c3a288aff1a01f59dde443dbbb8401ad807cd0e",
+    "@lekoarts/gatsby-theme-cara": "https://gitpkg.now.sh/orhan/gatsby-themes/themes/gatsby-theme-cara?03e9b447fc2441a953f1fa7addf9d8946987462c",
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "@mdx-js/tag": "^0.20.3",
