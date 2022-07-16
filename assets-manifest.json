@@ -1,9 +1,11 @@
 {
+  "app-2533c8090cfc584ebc84.js.LICENSE.txt": "app-2533c8090cfc584ebc84.js.LICENSE.txt",
+  "app-2533c8090cfc584ebc84.js.map": "app-2533c8090cfc584ebc84.js.map",
   "app-a242be44c75375876d4d.js.LICENSE.txt": "app-a242be44c75375876d4d.js.LICENSE.txt",
   "app-a242be44c75375876d4d.js.map": "app-a242be44c75375876d4d.js.map",
   "app-d9175fe39a9b1b91612c.js.LICENSE.txt": "app-d9175fe39a9b1b91612c.js.LICENSE.txt",
   "app-d9175fe39a9b1b91612c.js.map": "app-d9175fe39a9b1b91612c.js.map",
-  "app.js": "app-d9175fe39a9b1b91612c.js",
+  "app.js": "app-2533c8090cfc584ebc84.js",
   "commons-4652f876c5641634f604.js.LICENSE.txt": "commons-4652f876c5641634f604.js.LICENSE.txt",
   "commons-4652f876c5641634f604.js.map": "commons-4652f876c5641634f604.js.map",
   "commons.js": "commons-4652f876c5641634f604.js",
