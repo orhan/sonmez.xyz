@@ -1,0 +1,28 @@
+@media screen and (max-width: 775px) {
+    #intro-container {
+        flex-direction: column;
+    }
+
+    #intro-image {
+        width: 33%;
+        align-self: center;
+    }
+
+    #intro-text {
+        margin: 0 !important;
+        transform: scale(0.8);
+    }
+
+    #clients-container {
+        flex-direction: column;
+    }
+
+    #clients-grid-container>div {
+        margin-top: 30px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    #clients-grid-container a {
+        padding: 2rem !important
+    }
+}
