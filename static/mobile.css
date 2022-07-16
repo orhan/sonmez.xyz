@@ -1,9 +1,11 @@
 @media screen and (max-width: 775px) {
-    #intro-container {
+    #intro-container,
+    #about-container {
         flex-direction: column;
     }
 
-    #intro-image {
+    #intro-image,
+    #about-image {
         width: 33%;
         align-self: center;
     }
@@ -24,5 +26,9 @@
 
     #clients-grid-container a {
         padding: 2rem !important
+    }
+       
+    #about-image {
+        margin-bottom: 40px;
     }
 }
