@@ -57,5 +57,22 @@ module.exports = {
         openAnalyzer: false,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [
+          "G-6HG6E272FK", // Google Analytics / GA
+        ],
+        gtagConfig: {
+          anonymize_ip: false,
+          cookie_expires: 0,
+          send_page_view: true,
+        },
+        pluginConfig: {
+          // Puts tracking script in the head instead of the body
+          head: true,
+        },
+      },
+    },
   ].filter(Boolean),
 };
